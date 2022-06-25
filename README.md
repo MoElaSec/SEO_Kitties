@@ -1,7 +1,3 @@
-<!-- # SEO Kitties -->
-
-
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&lines=SEO+Snippets+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F">
 </h1>
 
