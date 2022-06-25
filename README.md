@@ -9,6 +9,5 @@
 </h1>
 
 
-
 Col. of neat SEO Techniques+Snippets ❤️
 
