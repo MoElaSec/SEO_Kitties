@@ -5,3 +5,5 @@
 
 Col. of neat SEO Techniques+Snippets ❤️
 
+
+![Kitties](/src/bg.png)
